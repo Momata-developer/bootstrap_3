@@ -1,0 +1,25 @@
+body{
+	background-color: #dddddd;
+	font:sans-serif;
+}
+.row:hover{
+	background-color:#dddddd;
+}
+.card-body:hover{
+	background-color:#dddddd;
+}
+.btn{
+
+	font-size: 12px;
+	margin:10px;
+	padding: 8px 15px;
+}
+.btn:hover{
+	background-color:skyblue;
+}
+.nav-link{
+	color:white;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
